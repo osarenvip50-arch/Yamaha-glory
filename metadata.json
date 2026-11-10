@@ -1,0 +1,6 @@
+{
+  "name": "FRIDAY",
+  "description": "FRIDAY — Autonomous AI Working Assistant for research, scouting, Upwork, task execution, and cloud operations",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
